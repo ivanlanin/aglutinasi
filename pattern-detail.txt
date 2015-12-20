@@ -1,0 +1,20 @@
+me- + V > VT; melakukan; karang > mengarang
+me- + V > VI; melakukan; tangis > menangis
+me- + N > VT; memakai, menggunakan; sabit > menyabit
+me- + N > VI; hidup sebagai, hidup di; janda > menjanda
+me- + N > VT; membuat; sambal > menyambal
+me- + N > VI; mengeluarkan (suara); cicit > mencicit
+me- + N > VI; menuju ke; laut > melaut
+me- + N > VI; mencari, mengumpulkan; rotan > merotan
+me- + N > VI; berlaku seperti, menyerupai; beo > membeo
+me- + N > VI; menjadi; batu > membatu
+me- + N > VT; membubuhi; kapur > mengapur
+me- + A > VI; menjadi; pucat > memucat
+me- + ADV > VI; menjadi; lebih > melebih
+me- + NUM > V; menjadi; satu > menyatu
+me- + PRO > V; mengatakan; aku > mengaku
+me- + INT > V; mengatakan; aduh > mengaduh
+me- + FN > V; memperingati; tiga hari > meniga hari
+me- + ING > V; melakukan; apa > mengapa
+me- + N > V; melakukan kenikmatan; rokok > merokok
+me- + N > V; keadaan; lamun > melamun
