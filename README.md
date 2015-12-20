@@ -20,3 +20,7 @@ Bahasa Indonesia menggunakan proses aglutinasi untuk membentuk kata. Proses ini 
 ## Rujukan
 
 - Kridalaksana, H. (2007). Pembentukan Kata dalam Bahasa Indonesia. Jakarta: Gramedia Pustaka Utama
+
+## Lisensi
+
+Lisensi MIT. Baca "LICENSE.TXT".
